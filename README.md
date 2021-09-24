@@ -1,4 +1,5 @@
 ### front-end-common-regular
+>前端常用正则验证，包括，身份证号，手机号，邮箱，车牌号，URL，字符串包括中文，去除空格，用户名，密码，十六进制颜色，分位符
 1. 安装
 ```
 npm i  front-end-common-regular -S
