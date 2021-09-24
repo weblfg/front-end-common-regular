@@ -30,7 +30,7 @@ console.log(a)
 | 密码强度 | string | boolean |
 | 用户名规则 | string | boolean |
 | 十六进制颜色 | string | boolean |
-| 分位符 | object | boolean |
+| 分位符 | object | string |
 | 去除所有空格 | string | string |
 | 去除首尾空格 | string | string |
 >只有validateFn(type,value)的传参type是分位符的时候，value是object且必须要包含两个键值

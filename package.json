@@ -1,6 +1,6 @@
 {
   "name": "front-end-common-regular",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "前端开发常用的正则表达式验证,其中包括，身份证号，手机号，邮箱，车牌号，URL，字符串包括中文，去除空格，用户名，密码，十六进制颜色，分位符",
   "main": "index.js",
   "scripts": {
